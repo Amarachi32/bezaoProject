@@ -1,0 +1,15 @@
+/home/amarachi/Desktop/bezao/pigLatin/bin/Debug/net6.0/pigLatin
+/home/amarachi/Desktop/bezao/pigLatin/bin/Debug/net6.0/pigLatin.deps.json
+/home/amarachi/Desktop/bezao/pigLatin/bin/Debug/net6.0/pigLatin.runtimeconfig.json
+/home/amarachi/Desktop/bezao/pigLatin/bin/Debug/net6.0/pigLatin.dll
+/home/amarachi/Desktop/bezao/pigLatin/bin/Debug/net6.0/pigLatin.pdb
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.csproj.AssemblyReference.cache
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.AssemblyInfoInputs.cache
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.AssemblyInfo.cs
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.csproj.CoreCompileInputs.cache
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.dll
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/refint/pigLatin.dll
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.pdb
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/pigLatin.genruntimeconfig.cache
+/home/amarachi/Desktop/bezao/pigLatin/obj/Debug/net6.0/ref/pigLatin.dll

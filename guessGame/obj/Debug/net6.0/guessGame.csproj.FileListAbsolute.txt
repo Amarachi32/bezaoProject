@@ -1,0 +1,15 @@
+/home/amarachi/Desktop/bezao/guessGame/bin/Debug/net6.0/guessGame
+/home/amarachi/Desktop/bezao/guessGame/bin/Debug/net6.0/guessGame.deps.json
+/home/amarachi/Desktop/bezao/guessGame/bin/Debug/net6.0/guessGame.runtimeconfig.json
+/home/amarachi/Desktop/bezao/guessGame/bin/Debug/net6.0/guessGame.dll
+/home/amarachi/Desktop/bezao/guessGame/bin/Debug/net6.0/guessGame.pdb
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.csproj.AssemblyReference.cache
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.AssemblyInfoInputs.cache
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.AssemblyInfo.cs
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.csproj.CoreCompileInputs.cache
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.dll
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/refint/guessGame.dll
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.pdb
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/guessGame.genruntimeconfig.cache
+/home/amarachi/Desktop/bezao/guessGame/obj/Debug/net6.0/ref/guessGame.dll
